@@ -1,5 +1,5 @@
 // package metadata file for Meteor.js
-var packageName = 'oopyoung:admin-lte';
+var packageName = 'meteoryoung:admin-lte';
 var where = 'client'; // where to install: 'client' or 'server'. For both, pass nothing.
 var version = '2.3.1';
 var summary = 'AdminLTE - admin template. Meteor package.';
