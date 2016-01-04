@@ -9,7 +9,7 @@ Meteor usage
 
 Installation
 ```
-meteor add oopyoung:admin-lte
+meteor add meteoryoung:admin-lte
 ```
 
 To activate AdminLTE app on template put this code in Template.foo.onRendered:
